@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Ma première page en html 5</title>
+</head>
+<Body>
+    <h1>Qu'est-ce qu'un Hippocampe</h1>
+    <b>
+    <h2>L'hippocampe</h2>
+    </b>
+    <p>Du point de vue zoologique, les hippocampes sont associés aux <u title="*Syngnathus est un genre de poissons osseux qui sont communément appelés syngnathes, aiguilles ou vipères de mer.">syngnathes*</u> dans la famille des syngnathidés</p>
+    <h3>En apprendre plus sur l'Hippocampe.</h3>
+    <img src="images.jpeg" alt="Texte alternatif de l'image" title="Titre de l'image"> Logo Hippocampe
+    <a href="https://www.youtube.com/watch?v=UGcH9liYK9M" target="_blank" title="Apprenez en plus sur l'hippocampe">Découvrez L'Hippocampe</a>
+    <h4>Quels sont les types d'Hippocampe existant?</h4>
+    <ol type="disc">
+       <li>Hippocampe à Museau court</li>
+       <li>Hippocampe moucheté</li>
+       <li>Hippocampe Nain</li>
+       <li>Hippocampe à long museau</li>
+       <li>Hippocampe rayé</li>
+    </ol>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UGcH9liYK9M?si=YRncma1NpL3z31ui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h5>TABLEAU</h5>
+    <h6>___________________________________</h6>
+    <table>
+        <thead>
+            <tr>
+                <td><b>Photo</b></td>
+                <td><b> ID</b></td>
+                <td><b> Catégorie</b></td>
+                <td><b> Libellé</b></td>
+                <td><b> Prix</b></td>
+                <td><b> Couleur</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img width="100" height="100" src="images/7.jpg"></td>
+                <td>7</td>
+                <td>Barbecues</td>
+                <td>Aramis</td>
+                <td>110.00€</td>
+                <td>Brun</td>
+            </tr>
+            <tr>
+                <td><img width="100" height="100" src="images/8.jpg"></td>
+                <td>8</td>
+                <td>Barbecues</td>
+                <td>Athos</td>
+                <td>249.99€</td>
+                <td>Noir</td>
+            </tr>
+            <tr>
+                <td><img width="100" height="100" src="images/11.jpg"></td>
+                <td>11</td>
+                <td>Barbecues</td>
+                <td>Clatronic</td>
+                <td>135.90€</td>
+                <td>Chrome</td>
+            </tr>
+            <tr>
+                <td><img width="100" height="100" src="images/12.jpg"></td>
+                <td>12</td>
+                <td>Barbecues</td>
+                <td>Camping</td>
+                <td>88.00€</td>
+                <td>Noir</td>
+            </tr>
+            <tr>
+                <td><img width="100" height="100" src="images/13.jpg"></td>
+                <td>13</td>
+                <td>Brouette</td>
+                <td>Green</td>
+                <td>49.00€</td>
+                <td>Verte</td>
+            </tr>
+        </tbody>
+    </table>
+
+    </Body>
+</html>
